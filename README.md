@@ -25,7 +25,9 @@ The database PH-EmployeeDB was created using the EDR below. The SQL code is summ
 
 The input files for each input table were provided in CSV format and can be downloaded from the folder [Data/](Data/).
 
-The SQL code used to produce the deliverables can be found in [Employee_Database_challenge.sql](Employee_Database_challenge.sql).
+The CSV files representing the output tables can be found in the folder [Queries/](Queries/). Some of these files are too large to be displayed by GitHub.
+
+The SQL code used to produce the deliverables can be found in [Employee_Database_challenge.sql](Queries/Employee_Database_challenge.sql).
 
 ### Deliverable 1
 
@@ -120,7 +122,7 @@ ORDER BY e.emp_no;
 
 ## Summary
 
-It stands out the large number of positions that would be affected by the wave of possible retirements. There are 90,398 employees that met the requirements outlined (DOB between 1952-1955).  They cover all 7 different titles and across all department in Pewlett Hackard. 
+It's significant the large number of positions that would be affected by the wave of possible retirements. There are 90,398 employees that met the requirements outlined (DOB between 1952-1955).  They cover all 7 different titles and across all department in Pewlett Hackard. 
 
 **NOTE:** the total drops to 72,458 when filtering for current employees.
 
